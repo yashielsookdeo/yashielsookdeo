@@ -8,10 +8,12 @@
 <h2 align="center">My Workspace</h2>
 
 <p align='center'>
-  <img alt="acer" src="https://img.shields.io/badge/Acer-C22_963-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
+  <img alt="acer" src="https://img.shields.io/badge/Acer-C22_963_AIO-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
   <img alt="soc" src="https://img.shields.io/badge/Intel-i5_1035G1-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img alt="ram" src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img alt="ssd" src="https://img.shields.io/badge/512GB_NVME_+_2TB_SSD-grey?style=for-the-badge" />
+  <br/>
+  <img alt="monitors" src="https://img.shields.io/badge/2×-Dell_S2721HN_75Hz-0076CE?style=for-the-badge&logo=dell&logoColor=white" />
   <br/>
   <img alt="macbook" src="https://img.shields.io/badge/MacBook_Air-M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="ram" src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
