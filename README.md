@@ -52,14 +52,6 @@
   <img alt="Storage" src="https://img.shields.io/badge/Storage-256GB_SSD_+_2×2TB_SSDs-grey?style=for-the-badge" />
 </p>
 
-<h2 align="center">Home Automation</h2>
-<p align="center">
-  <img alt="Home Assistant" src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" />
-  <img alt="Homebridge" src="https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-</p>
-
 <hr>
 
 <p align='center'>
@@ -71,13 +63,6 @@
   </a>
   <a href="https://github.com/yashielsookdeo">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yashielsookdeo&icon=0&color=0" />
   </a>
 </p>
 
