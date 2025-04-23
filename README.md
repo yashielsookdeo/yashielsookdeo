@@ -5,7 +5,7 @@
 
 <hr>
 
-<h2 align="center">My Workspace</h2>
+<h2 align="center">My Workstation</h2>
 
 <p align='center'>
   <img alt="acer" src="https://img.shields.io/badge/Acer-C22_963_AIO-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
