@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Yashiel</h1>
-<h4 align="center">Android Developer by day | AI-Intervener by night | Software Developer</h4>
+<h4 align="center">Android Developer by day | Backend Dev by night | Senior Dev</h4>
 </div>
 
 <hr>
