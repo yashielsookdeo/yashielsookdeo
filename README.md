@@ -1,70 +1,73 @@
 <div align="center">
-<h1 align="center">Hi, I'm Yashiel</h1>
-<h4 align="center">Android Developer by day | Backend Dev by night | Senior Dev</h4>
+<h1>Yashiel Sookdeo</h1>
+<h3>Senior Android Dev | Cloud Architect | AWS Solutions Architect</h3>
 </div>
 
-<hr>
+---
 
-<h2 align="center">My Workstation</h2>
+## Current
+- Senior Android Developer @ Nedbank
+- Cloud Architecture Consultant @ Saya Setona
+- CEO @ Skyner Logistics
 
-<p align='center'>
-  <img alt="monitors" src="https://img.shields.io/badge/2×-Dell_S2721HN_75Hz-0076CE?style=for-the-badge&logo=dell&logoColor=white" />
-  <br/>
-  <img alt="os" src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="hp-laptop" src="https://img.shields.io/badge/HP-EliteBook_850_G6-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
-  <img alt="cpu" src="https://img.shields.io/badge/Intel-i7_8565U-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img alt="ram" src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img alt="graphics" src="https://img.shields.io/badge/Intel-UHD_Graphics_620-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <br/>
-  <img alt="macbook" src="https://img.shields.io/badge/MacBook_Air-M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="ram" src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img alt="ssd" src="https://img.shields.io/badge/256GB_SSD-grey?style=for-the-badge" />
-  <br/>
-  <img alt="mac-mini" src="https://img.shields.io/badge/Mac_Mini-M1_2020-999999?style=for-the-badge&logo=apple&logoColor=white" />
-  <img alt="ram" src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img alt="ssd" src="https://img.shields.io/badge/256GB_SSD-grey?style=for-the-badge" />
-</p>
+## Tech Stack
 
-<h2 align="center">Servers & Home Lab</h2>
-
-<h3 align="center">Titan</h3>
 <p align="center">
-  <img alt="Proxmox" src="https://img.shields.io/badge/OS-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img alt="CPU" src="https://img.shields.io/badge/CPU-Intel_Xeon_E5606-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img alt="RAM" src="https://img.shields.io/badge/RAM-16GB_DDR3_1333MHz-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <br/>
-  <img alt="Storage" src="https://img.shields.io/badge/Storage-6×2TB_WD_Purple_+_256GB_SSD-purple?style=for-the-badge&logo=western-digital&logoColor=white" />
-  <img alt="RAID" src="https://img.shields.io/badge/RAID-Intel_RS2BL040-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h3 align="center">Hyperion</h3>
 <p align="center">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="CPU" src="https://img.shields.io/badge/CPU-Intel_Xeon_E5620-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img alt="RAM" src="https://img.shields.io/badge/RAM-16GB_DDR3_1333MHz-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <br/>
-  <img alt="Storage" src="https://img.shields.io/badge/Storage-6×4TB_WD_Purple_+_256GB_SSD-purple?style=for-the-badge&logo=western-digital&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
 </p>
 
-<h3 align="center">Apollo</h3>
 <p align="center">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="CPU" src="https://img.shields.io/badge/CPU-Intel_i3_4150T-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img alt="RAM" src="https://img.shields.io/badge/RAM-8GB_DDR3-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <br/>
-  <img alt="Storage" src="https://img.shields.io/badge/Storage-256GB_SSD_+_2×2TB_SSDs-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-<p align='center'>
-  <a href="https://instagram.com/yashiel">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashielsookdeo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashielsookdeo&theme=default&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashielsookdeo&layout=compact&theme=default&hide_border=true&count_private=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/yashielsookdeo/yashielsookdeo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
   <a href="https://linkedin.com/in/yashielsookdeo">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/yashielsookdeo">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:yashiel@skyner.co.za">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
