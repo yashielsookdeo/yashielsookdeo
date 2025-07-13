@@ -43,15 +43,15 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashielsookdeo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashielsookdeo&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashielsookdeo&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashielsookdeo&background=00000000&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashielsookdeo&layout=compact&theme=default&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashielsookdeo&layout=compact&bg_color=00000000&hide_border=true&count_private=true" alt="Top Languages" />
 </div>
 
 <div align="center">
