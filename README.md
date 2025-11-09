@@ -12,8 +12,7 @@
 ## Current Roles
 
 - **Senior Android Developer** @ Nedbank  
-- **Cloud Architecture Consultant** @ Saya Setona  
-- **Chief Executive Officer** @ Skyner Logistics  
+- **Founder** @ Skylog  
 
 ---
 
