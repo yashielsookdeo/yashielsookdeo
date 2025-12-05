@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Yashiel Sookdeo</h1>
-<h3>Senior Android Developer | Cloud Architect | AWS Solutions Architect</h3>
+<h3>Full Stack Engineer</h3>
 
 <p>Engineering reliable, scalable solutions across mobile and cloud platforms</p>
 
@@ -11,7 +11,7 @@
 
 ## Current Roles
 
-- **Senior Android Developer** @ Nedbank  
+- **Full Stack Engineer** @ Stitch Money
 - **Founder** @ Skylog  
 
 ---
