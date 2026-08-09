@@ -1,4 +1,4 @@
-# Yash Sookdeo
+# Yashiel Sookdeo
 
 **I build companies and ship products.**
 
