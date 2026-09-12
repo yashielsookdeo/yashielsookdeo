@@ -31,6 +31,7 @@ Payments infrastructure powering Africa's biggest brands. Autonomous AI agents r
 - 🔗 **[lnk](https://github.com/yashiels/linkedin-cli)** — LinkedIn from the terminal — jobs, profiles, applications
 - 🐦 **[twt](https://github.com/yashiels/twitter-cli)** — X/Twitter from the terminal
 - 👽 **[reddit](https://github.com/yashiels/reddit-cli)** — Reddit from the terminal — browse, search, vote, reply
+- 🍱 **[hfd](https://github.com/yashiels/home-food-depo-cli)** — order Home Food Deli lunches without opening the browser
 
 #### Web Apps
 - 🎬 **[SkyStream](https://github.com/yashiels/skystream)** — media streaming app ([live](https://skystream-pearl.vercel.app))
